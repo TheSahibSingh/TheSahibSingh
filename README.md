@@ -9,8 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thesahibsingh/">LinkedIn</a> •
-  <a href="https://thesahibsingh.com/">Website</a>
+  <a href="https://www.linkedin.com/in/thesahibsingh/">LinkedIn</a> ·
+  <a href="https://thesahibsingh.com/">Website</a> ·
+  <a href="https://dev.to/thesahibsingh">Articles</a> ·
+  <a href="https://www.instagram.com/elevated.sahib">Life</a>
 </p>
 
 ---
@@ -80,8 +82,10 @@ The goal is to build things that last and improve over time.
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/thesahibsingh/  
-- Website: https://thesahibsingh.com/  
+- LinkedIn → https://www.linkedin.com/in/thesahibsingh/  
+- Website → https://thesahibsingh.com/  
+- Articles → https://dev.to/thesahibsingh  
+- Life → https://www.instagram.com/elevated.sahib  
 
 ---
 
