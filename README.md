@@ -12,6 +12,7 @@
   <a href="https://www.linkedin.com/in/thesahibsingh/">LinkedIn</a> ·
   <a href="https://thesahibsingh.com/">Website</a> ·
   <a href="https://dev.to/thesahibsingh">Articles</a> ·
+  <a href="https://gamesiknow.com/">GamesIKnow</a> ·
   <a href="https://www.instagram.com/elevated.sahib">Life</a>
 </p>
 
@@ -27,35 +28,57 @@ Based in Dubai, I work at the intersection of engineering, performance, and prod
 
 ## What I Do
 
-- Design and develop high-performance web applications  
-- Optimize systems for speed, SEO, and real-world usage  
-- Lead teams and drive engineering decisions  
-- Build with a product mindset, not just code execution  
+- Design and develop high-performance web applications
+- Optimize systems for speed, SEO, and real-world usage
+- Lead teams and drive engineering decisions
+- Build with a product mindset, not just code execution
+
+---
+
+## Featured Project
+
+### [GamesIKnow](https://gamesiknow.com/)
+
+I built GamesIKnow — a free browser games website for quick games like Tic Tac Toe, Bingo, and trivia-style games.
+
+The goal is simple: play instantly in the browser with no download, no signup, and smooth gameplay on mobile and desktop.
+
+- Free online browser games
+- No install or registration required
+- Mobile-friendly gameplay
+- Built with Next.js, React, TypeScript, and Tailwind CSS
+
+[Play GamesIKnow](https://gamesiknow.com/) · [View Repository](https://github.com/TheSahibSingh/gamesiknow)
 
 ---
 
 ## Tech Stack
 
 **Frontend**
+
 - Next.js
 - React
 - Astro
 - Angular
 
 **Backend**
+
 - Node.js
 - NestJS
 
 **Data**
+
 - PostgreSQL
 - MongoDB
 
 **Infrastructure**
+
 - AWS
 - Docker
 - CI/CD Pipelines
 
 **Focus Areas**
+
 - Performance Optimization
 - SEO Engineering
 - Scalable Architecture
@@ -65,27 +88,29 @@ Based in Dubai, I work at the intersection of engineering, performance, and prod
 
 ## Engineering Philosophy
 
-- Speed is a feature  
-- Visibility matters as much as functionality  
-- Simplicity beats over-engineering  
-- Decisions should be data-backed  
-- Shipping fast matters, but quality cannot be compromised  
+- Speed is a feature
+- Visibility matters as much as functionality
+- Simplicity beats over-engineering
+- Decisions should be data-backed
+- Shipping fast matters, but quality cannot be compromised
 
 ---
 
 ## Beyond Code
 
-I focus on consistency, discipline, and clarity — in both systems and life.  
+I focus on consistency, discipline, and clarity — in both systems and life.
+
 The goal is to build things that last and improve over time.
 
 ---
 
 ## Connect
 
-- LinkedIn → https://www.linkedin.com/in/thesahibsingh/  
-- Website → https://thesahibsingh.com/  
-- Articles → https://dev.to/thesahibsingh  
-- Life → https://www.instagram.com/elevated.sahib  
+- LinkedIn → https://www.linkedin.com/in/thesahibsingh/
+- Website → https://thesahibsingh.com/
+- Articles → https://dev.to/thesahibsingh
+- GamesIKnow → https://gamesiknow.com/
+- Life → https://www.instagram.com/elevated.sahib
 
 ---
 
